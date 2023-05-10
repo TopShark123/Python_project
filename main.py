@@ -1,5 +1,6 @@
 import pygame
 import os
+import enemies,hero,map
 
 print(5)
 print(6)
